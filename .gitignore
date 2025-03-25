@@ -1,5 +1,5 @@
-config/
-databases/
-.env
-log/*
-vendor
+# config/
+# databases/
+# .env
+# log/*
+# vendor
